@@ -1,0 +1,8 @@
+DISABLE:
+  - GROOVY
+  - XML
+  - YAML
+  - JSON
+
+SHOW_ELAPSED_TIME: true
+LINTER_RULES_PATH: ./rules
